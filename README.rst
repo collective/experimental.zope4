@@ -9,6 +9,8 @@ Demo of Plone running on Zope 4.
 .. warning::
     Don't use this in production!
 
+For more information one Zope 4 see: https://github.com/zopefoundation/Zope
+
 
 Prerequisites
 -------------
