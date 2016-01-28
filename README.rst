@@ -1,6 +1,10 @@
 Plone 5 on Zope 4
 =================
 
+.. note:: Obsolete
+    There is a buildout.coredev PLIP configuration, which should be used instead of this repository:
+    https://github.com/plone/buildout.coredev/blob/5.0/plips/plip-zope4.cfg
+
 Demo of Plone running on Zope 4.
 
 .. note::
